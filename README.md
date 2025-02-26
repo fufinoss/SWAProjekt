@@ -47,3 +47,4 @@ Tento projekt je webová aplikace pro správu fotbalových zápasů. Umožňuje 
 
 ## 📜 Licence
 Tento projekt je licencován pod MIT licencí.
+![image](https://github.com/user-attachments/assets/b73b9546-66fe-4828-bc8e-a6bc5fea7521)
